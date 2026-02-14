@@ -1,4 +1,4 @@
-# SoSaltix Linux
+# Sosaltix Linux
 
 Arch-based Linux distribution with KDE Plasma
 
@@ -9,10 +9,10 @@ Arch-based Linux distribution with KDE Plasma
 - Optimized for performance
 
 ## Build instructions
-```bash
 git clone https://github.com/ktoto42-oss/sosaltix
 cd sosaltix
 sudo mkarchiso -v -w work/ -o out/ sosaltix-profile/
+
 
 Requirements
 archiso package
