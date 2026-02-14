@@ -1,0 +1,20 @@
+# Build directories
+work/
+out/
+build/
+
+# Temporary files
+*.tmp
+*.log
+*.cache
+*.lock
+
+# System files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# ISO files
+*.iso
