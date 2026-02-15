@@ -121,17 +121,4 @@ virtualbox-guest-utils-nox
 vpnc
 
 # Дополнительные пакеты
-wireless-regdb
-wireless_tools
-wpa_supplicant
-wvdial
-xdg-utils
-xfsprogs
-xl2tpd
-zsh
-sddm
-plasma-desktop
-plasma-nm
-plasma-pa
-fastfetch
-alacritty
+git 

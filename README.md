@@ -1,10 +1,9 @@
 # Sosaltix Linux
 
-Arch-based Linux distribution with KDE Plasma
+Arch-based Linux distribution
 
 ## Features
 - Based on Arch Linux
-- KDE Plasma desktop
 - Fastfetch with custom ASCII logo
 - Optimized for performance
 
@@ -22,5 +21,3 @@ Root privileges
 License
 MIT
 EOF
-
-
