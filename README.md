@@ -17,7 +17,3 @@ Requirements
 archiso package
 Root privileges
 ~10GB free space
-
-License
-MIT
-EOF
